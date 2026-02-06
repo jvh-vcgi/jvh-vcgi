@@ -11,6 +11,23 @@ A simple directory and navigation hub for my GitHub contributions. rojects are o
 [![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vem)
 
 
+## Following
+
+### 🏛️ State of Vermont Partners
+| User / Org | Dept / Role |
+| :--- | :--- |
+| **@Vvcgi** | Center for Geographic Information |
+| **@vtrans** | Vermont Agency of Transportation |
+
+### 🌍 External Resources
+| User | Org | Link |
+| :--- | :--- | :--- |
+| **UVM** | Vermont Open Source Program Office | [View Profile]([https://github.com/Esri](https://github.com/VERSO-UVM)) |
+| **CNG** | Cloud Native Geospatial| [View Profile]([https://github.com/USACE](https://github.com/cloudnativegeo)) |
+| **Bill Morris** | Mapbox | [View Profile]([https://github.com/OSGeo](https://github.com/wboykinm)) |
+| **CORI** | Center on Rural Innovation | [View Profile]([https://github.com/ruralinnovation)) |
+
+
 <!--
 **jvh-vcgi/jvh-vcgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
