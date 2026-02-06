@@ -1,8 +1,8 @@
-### Projects Directory
+## Projects Directory
 
 A simple irectory and navigation hub for my GitHub contributions. Projects are organized by major initiatives, focusing on geospatial work for VEM and VCGI.
 
-## Access Repositories by Category:
+### Access Repositories by Category:
 
 [![](https://img.shields.io/badge/📂_ANR_Projects-9BC596?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-anr)
 
