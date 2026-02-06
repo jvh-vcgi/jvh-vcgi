@@ -4,11 +4,11 @@ A simple irectory and navigation hub for my GitHub contributions. Projects are o
 
 ### Access Repositories by Category:
 
-[![](https://img.shields.io/badge/📂_ANR_Projects-9BC596?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-anr)
+[![](https://img.shields.io/badge/📂_ANR_Projects-9BC596?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-anr)
 
-[![](https://img.shields.io/badge/📂_VCGI_Projects-0052CC?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-vcgi)
+[![](https://img.shields.io/badge/📂_VCGI_Projects-0052CC?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vcgi)
 
-[![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/john-vanhoesen?tab=repositories&q=topic%3Avt-vem)
+[![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vem)
 
 
 
