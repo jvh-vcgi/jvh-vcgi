@@ -14,18 +14,18 @@ A simple directory and navigation hub for my GitHub contributions. rojects are o
 ## Following
 
 ### 🏛️ State of Vermont Partners
-| User / Org | Dept / Role |
-| :--- | :--- |
-| **@Vvcgi** | Center for Geographic Information |
-| **@vtrans** | Vermont Agency of Transportation |
+| User / Org | Dept / Role | Link |
+| :--- | :--- | :--- |
+| **VCGI** | Center for Geographic Information | [View Profile]([https://github.com/vcgi]) |
+| **VTrans** | Vermont Agency of Transportation | [View Profile]([https://github.com/vtrans]) | 
 
 ### 🌍 External Resources
 | User | Org | Link |
 | :--- | :--- | :--- |
-| **UVM** | Vermont Open Source Program Office | [View Profile]([https://github.com/Esri](https://github.com/VERSO-UVM)) |
-| **CNG** | Cloud Native Geospatial| [View Profile]([https://github.com/USACE](https://github.com/cloudnativegeo)) |
-| **Bill Morris** | Mapbox | [View Profile]([https://github.com/OSGeo](https://github.com/wboykinm)) |
-| **CORI** | Center on Rural Innovation | [View Profile]([https://github.com/ruralinnovation)) |
+| **UVM** | Vermont Open Source Program Office | [View Profile]([https://github.com/VERSO-UVM]) |
+| **CNG** | Cloud Native Geospatial| [View Profile]([https://github.com/cloudnativegeo]) |
+| **Bill Morris** | Mapbox | [View Profile]([https://github.com/wboykinm]) |
+| **CORI** | Center on Rural Innovation | [View Profile]([https://github.com/ruralinnovation]) |
 
 
 <!--
