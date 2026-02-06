@@ -27,7 +27,7 @@ A simple directory and navigation hub for my GitHub contributions. rojects are o
 | **Bill Morris** | Mapbox | [View Profile](https://github.com/wboykinm) |
 | **CORI** | Center on Rural Innovation | [View Profile](https://github.com/ruralinnovation) |
 
-
+![Bot Generated Stats](github-metrics.svg)
 <!--
 **jvh-vcgi/jvh-vcgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
