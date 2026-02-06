@@ -10,7 +10,10 @@ A simple directory and navigation hub for my GitHub contributions. Projects are 
 
 [![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vem)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvh-vcgi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=john-vanhoesen&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=john-vanhoesen&repo=vermont-dam-project&theme=radical" width="45%" />
+</p>
 
 <!--
 **john-vanhoesen/john-vanhoesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
