@@ -1,6 +1,6 @@
 ## Projects Directory
 
-A simple irectory and navigation hub for my GitHub contributions. Projects are organized by major initiatives, focusing on geospatial work for VEM and VCGI.
+A simple directory and navigation hub for my GitHub contributions. Projects are organized by major initiatives, focusing on geospatial work for VEM and VCGI.
 
 ### Access Repositories by Category:
 
