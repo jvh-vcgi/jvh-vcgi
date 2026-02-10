@@ -4,13 +4,13 @@ A simple directory and navigation hub for my GitHub contributions. rojects are o
 
 ### Access Repositories by Category:
 
-[![](https://img.shields.io/badge/📂_ANR_Projects-9BC596?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-anr)
+[![ANR Projects](https://img.shields.io/badge/ANR_Projects-9BC596?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-anr)
 
-[![](https://img.shields.io/badge/📂_VCGI_Projects-0052CC?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vcgi)
+[![VCGI Projects](https://img.shields.io/badge/VCGI_Projects-0052CC?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vcgi)
 
-[![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vem)
+[![VEM Projects](https://img.shields.io/badge/VEM_Projects-E65100?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vem)
 
-[![VCGI Team Repos](https://img.shields.io/badge/VCGI_Projects-2A4C37?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/orgs/VCGI/teams/vem-geospatial/repositories)
+[![VCGI Team Repos](https://img.shields.io/badge/VCGI_VEM_Team-2A4C37?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/orgs/VCGI/teams/vem-geospatial/repositories)
 
 
 ## Following
