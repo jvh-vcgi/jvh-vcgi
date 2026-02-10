@@ -10,8 +10,7 @@ A simple directory and navigation hub for my GitHub contributions. rojects are o
 
 [![](https://img.shields.io/badge/📂_VEM_Projects-E65100?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vem)
 
-[![](https://img.shields.io/badge/📂_VCGI_Projects-2A4C37?style=for-the-badge)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vcgi)
-
+[![VCGI Team Repos](https://img.shields.io/badge/VCGI_Projects-2A4C37?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/jvh-vcgi?tab=repositories&q=topic%3Avt-vcgi)
 
 
 ## Following
